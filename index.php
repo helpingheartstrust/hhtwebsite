@@ -570,7 +570,7 @@
                 <li class="pull-right font-weight-400 text-black-333 pr-0">Goal: <span
                     class="text-theme-colored font-weight-700">$5000</span></li>
               </ul>
-              <h4 class="text-uppercase"><a href="page-single-cause.html">Donation for helpless child</a></h4>
+              <h4 class="text-uppercase"><a href="">Donation for helpless child</a></h4>
               <div class="progress-item mt-0">
                 <div class="progress mb-0">
                   <div data-percent="84" class="progress-bar"><span class="percent">0</span></div>
@@ -1120,11 +1120,11 @@
             <div class="widget dark">
               <h4 class="widget-title line-bottom text-white">Useful Links</h4>
               <ul class="list-border">
-                <li><a href="index.html" class="text-white">Home</a></li>
-                <li><a href="about-us.html" class="text-white">About us</a></li>
-                <li><a href="services.html" class="text-white">Services</a></li>
-                <li><a href="gallery.html" class="text-white">Gallery</a></li>
-                <li><a href="contact-us.html" class="text-white">Contact</a></li>
+                <li><a href="index.php" class="text-white">Home</a></li>
+                <li><a href="about-us.php" class="text-white">About us</a></li>
+                <li><a href="services.php" class="text-white">Services</a></li>
+                <li><a href="gallery.php" class="text-white">Gallery</a></li>
+                <li><a href="contact-us.php" class="text-white">Contact</a></li>
               </ul>
             </div>
           </div>
